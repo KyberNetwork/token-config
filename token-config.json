@@ -17,6 +17,114 @@
       "decimals": 18,
       "balance_slot": 3,
       "allowance_slot": 4
+    },
+    "0xdac17f958d2ee523a2206206994597c13d831ec7":{
+      "symbol": "USDT",
+      "decimals": 6,
+      "balance_slot": 2,
+      "allowance_slot": 5
+    },
+    "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48":{
+      "symbol": "USDC",
+      "decimals": 6,
+      "balance_slot": 9,
+      "allowance_slot": 10
+    },
+    "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9":{
+      "symbol": "AAVE",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599": {
+      "symbol": "WBTC",
+      "decimals": 8,
+      "balance_slot": 0,
+      "allowance_slot": 2
+    },
+    "0x111111111117dC0aa78b770fA6A738034120C302": {
+      "symbol": "1INCH",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xAE12C5930881c53715B369ceC7606B70d8EB229f": {
+      "symbol": "C98",
+      "decimals": 18,
+      "balance_slot": 2,
+      "allowance_slot": 3
+    },
+    "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0": {
+      "symbol": "MATIC",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e": {
+      "symbol": "YFI",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x514910771af9ca656af840dff83e8264ecf986ca": {
+      "symbol": "LINK",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0xd26114cd6ee289accf82350c8d8487fedb8a0c07": {
+      "symbol": "OMG",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x41e5560054824ea6b0732e656e3ad64e20e94e45": {
+      "symbol": "CVC",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x0d8775f648430679a709e98d2b0cb6250d2887ef": {
+      "symbol": "BAT",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x5732046a883704404f284ce41ffadd5b007fd668": {
+      "symbol": "BLZ",
+      "decimals": 18,
+      "balance_slot": 4,
+      "allowance_slot": 5
+    },
+    "0xe41d2489571d322189246dafa5ebde1f4699f498": {
+      "symbol": "ZRX",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x0f5d2fb29fb7d3cfee444a200298f468908cc942": {
+      "symbol": "MANA",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec": {
+      "symbol": "POLY",
+      "decimals": 18,
+      "balance_slot": 2,
+      "allowance_slot": 3
+    },
+    "0x8207c1ffc5b6804f6024322ccf34f29c3541ae26": {
+      "symbol": "OGN",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 2
+    },
+    "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c": {
+      "symbol": "ENJ",
+      "decimals": 18,
+      "balance_slot": 7,
+      "allowance_slot": 8
     }
   },
   "56":{
