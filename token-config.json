@@ -165,6 +165,38 @@
       "allowance_slot": 1
     }
   },
+  "43114": {
+    "0xd586e7f844cea2f87f50152665bcbc2c279d8d70":{
+      "symbol": "DAI.e",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7":{
+      "symbol": "USDT",
+      "decimals": 6,
+      "balance_slot": 51,
+      "allowance_slot": 52
+    },
+    "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e":{
+      "symbol": "USDC",
+      "decimals": 6,
+      "balance_slot": 9,
+      "allowance_slot": 10
+    },
+    "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619":{
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270":{
+      "symbol": "WAVAX",
+      "decimals": 18,
+      "balance_slot": 3,
+      "allowance_slot": 4
+    }
+  },
   "56":{
     "0xdac17f958d2ee523a2206206994597c13d831ec7":{
       "symbol": "DAI",
