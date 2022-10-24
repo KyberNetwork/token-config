@@ -198,8 +198,68 @@
     }
   },
   "56":{
-    "0xdac17f958d2ee523a2206206994597c13d831ec7":{
+    "0xfe56d5892bdffc7bf58f2e84be1b2c32d21c308b":{
+      "symbol": "KNC",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3":{
       "symbol": "DAI",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x2170ed0880ac9a755fd29b2688956bd959f933f8":{
+      "symbol": "WETH",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x55d398326f99059ff775485246999027b3197955":{
+      "symbol": "USDT",
+      "decimals": 6,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d":{
+      "symbol": "USDC",
+      "decimals": 6,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0xfb6115445bff7b52feb98650c87f44907e58f802":{
+      "symbol": "AAVE",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x111111111117dc0aa78b770fa6a738034120c302": {
+      "symbol": "1INCH",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0xaec945e04baf28b135fa7c640f624f8d90f1c3a6": {
+      "symbol": "C98",
+      "decimals": 18,
+      "balance_slot": 2,
+      "allowance_slot": 3
+    },
+    "0xcc42724c6683b7e57334c4e856f4c9965ed682bd": {
+      "symbol": "MATIC",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd": {
+      "symbol": "LINK",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x935a544bf5816e3a7c13db2efe3009ffda0acda2": {
+      "symbol": "BLZ",
       "decimals": 18,
       "balance_slot": 1,
       "allowance_slot": 2
