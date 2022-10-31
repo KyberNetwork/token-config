@@ -138,12 +138,7 @@
       "balance_slot": 52,
       "allowance_slot": 53
     },
-    "0x0abdace70d3790235af448c88547603b945604ea": {
-      "symbol": "DNT",
-      "decimals": 18,
-      "balance_slot": 0,
-      "allowance_slot": 0
-    },"0x0bfec35a1a3550deed3f6fc76dde7fc412729a91": {
+    "0x0bfec35a1a3550deed3f6fc76dde7fc412729a91": {
       "symbol": "XKNCA",
       "decimals": 18,
       "balance_slot": 101,
