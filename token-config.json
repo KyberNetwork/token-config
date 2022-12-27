@@ -1550,6 +1550,92 @@
       "balance_slot": 0,
       "allowance_slot": 1
     }
+  },
+  "42161": {
+    "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9": {
+      "symbol": "USDT",
+      "decimals": 6,
+      "balance_slot": 51,
+      "allowance_slot": 52
+    },
+    "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8": {
+        "symbol": "USDC",
+        "decimals": 6,
+        "balance_slot": 51,
+        "allowance_slot": 52
+    },
+    "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1": {
+        "symbol": "DAI",
+        "decimals": 18,
+        "balance_slot": 2,
+        "allowance_slot": 3
+    },
+    "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f": {
+        "symbol": "WBTC",
+        "decimals": 8,
+        "balance_slot": 51,
+        "allowance_slot": 52
+    },
+    "0xfea7a6a0b346362bf88a9e4a88416b77a57d6c2a": {
+      "symbol": "MIM",
+      "decimals": 18,
+      "balance_slot": 2,
+      "allowance_slot": 16
+    },
+    "0x9d2f299715d94d8a7e6f5eaa8e654e8c74a988a7": {
+      "symbol": "FXS",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x82af49447d8a07e3bd95bd0d56f35241523fbab1": {
+      "symbol": "WETH",
+      "decimals": 18,
+      "balance_slot": 51,
+      "allowance_slot": 52
+    },
+    "0x6694340fc020c5e6b96567843da2df01b2ce1eb6": {
+      "symbol": "STG",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x68ead55c258d6fa5e46d67fc90f53211eab885be": {
+      "symbol": "POP",
+      "decimals": 18,
+      "balance_slot": 51,
+      "allowance_slot": 52
+    },
+    "0x3f56e0c36d275367b8c502090edf38289b3dea0d": {
+      "symbol": "MAI",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x5979d7b546e38e414f7e9822514be443a4800529": {
+      "symbol": "wstETH",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0x080f6aed32fc474dd5717105dba5ea57268f46eb": {
+      "symbol": "SYN",
+      "decimals": 18,
+      "balance_slot": 101,
+      "allowance_slot": 102
+    },
+    "0x13ad51ed4f1b7e9dc168d8a00cb3f4ddd85efa60": {
+      "symbol": "LDO",
+      "decimals": 18,
+      "balance_slot": 51,
+      "allowance_slot": 52
+    },
+    "0x1622bf67e6e5747b81866fe0b85178a93c7f86e3": {
+      "symbol": "UMAMI",
+      "decimals": 9,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    }
   }
 }
 
