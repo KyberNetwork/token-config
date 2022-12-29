@@ -1635,6 +1635,12 @@
       "decimals": 9,
       "balance_slot": 0,
       "allowance_slot": 1
+    },
+    "0xe4dddfe67e7164b0fe14e218d80dc4c08edc01cb": {
+      "symbol": "KNC",
+      "decimals": 18,
+      "balance_slot": 51,
+      "allowance_slot": 52
     }
   }
 }
