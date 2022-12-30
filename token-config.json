@@ -1781,8 +1781,8 @@
     "0x2ae35c8e3d4bd57e8898ff7cd2bbff87166ef8cb": {
       "symbol": "MAI",
       "decimals": 18,
-      "balance_slot": 0,
-      "allowance_slot": 1
+      "balance_slot": 3,
+      "allowance_slot": 4
     },
     "0x2d03bece6747adc00e1a131bba1469c15fd11e03": {
       "symbol": "VVS",
