@@ -829,6 +829,18 @@
       "decimals": 18,
       "balance_slot": 0,
       "allowance_slot": 1
+    },
+    "0xE5417Af564e4bFDA1c483642db72007871397896": {
+      "symbol": "GNS",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
+    },
+    "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590": {
+      "symbol": "STG",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
     }
   },
   "43114": {
