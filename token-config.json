@@ -1301,6 +1301,24 @@
       "decimals": 18,
       "balance_slot": 4,
       "allowance_slot": 5
+    },
+    "0x4338665cbb7b2485a8855a139b75d5e34ab0db94": {
+      "symbol": "LTC",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0xBf5140A22578168FD562DCcF235E5D43A02ce9B1": {
+      "symbol": "UNI",
+      "decimals": 18,
+      "balance_slot": 1,
+      "allowance_slot": 2
+    },
+    "0xa260E12d2B924cb899AE80BB58123ac3fEE1E2F0": {
+      "symbol": "HOOK",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
     }
   },
   "10": {
