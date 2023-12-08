@@ -1071,6 +1071,12 @@
       "decimals": 18,
       "balance_slot": 101,
       "allowance_slot": 102
+    },
+    "0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd": {
+      "symbol": "JOE",
+      "decimals": 18,
+      "balance_slot": 0,
+      "allowance_slot": 1
     }
   },
   "56": {
